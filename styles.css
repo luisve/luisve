@@ -1,0 +1,13 @@
+ /** { font-family: 'Jost', sans-serif; font-size: 1.2rem;}*/
+ .ico-datos-personales {    max-width: 32px;
+    max-height: 32px;
+ margin: 5px 10px;}
+
+ #sectionGracias{ 
+   background-color: #E8F5E9;
+   border: 2px solid #A5D6A7;
+   border-radius: 10px;
+}
+#userNameTitle {
+   border-bottom: 1px solid #999;
+}
